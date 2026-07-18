@@ -1,1 +1,12 @@
-
+{
+  "name": "natsukashii",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp feito com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ryan",
+  "license": "MIT",
+  "dependencies": {}
+}

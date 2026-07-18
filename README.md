@@ -13,9 +13,9 @@ apt update && apt upgrade -y
 # Instalar Node.js e Git
 apt install nodejs git -y
 
-# Clonar o repositório (Substitua pela sua URL)
-# git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-# cd seu-repositorio
+# Clonar o repositório
+# git clone [https://github.com/angelreykz/natsukashi](https://github.com/angelreykz/natsukashi)
+# cd natsukashi
 
 # Instalar dependências
 npm install
